@@ -123,3 +123,28 @@ Displays three moving average lines (7-day, 30-day, 90-day) alongside closing pr
 
 ### Chart 3: Trading Volume Trend
 Bar chart showing daily trading volume with color coding (green fo
+### Chart 1: AAPL Price Trend
+
+
+![Price Trend](visualizations/01_price_trend.png)
+
+
+
+### Chart 2: Moving Averages
+
+
+![Moving Averages](visualizations/02_moving_averages.png)
+
+
+
+### Chart 3: Trading Volume
+
+
+![Volume](visualizations/03_volume.png)
+
+
+
+### Chart 4: Daily Returns
+
+
+![Daily Returns](visualizations/04_daily_returns.png)
